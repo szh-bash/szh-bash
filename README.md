@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋 I am [Immortal.S](http://szh-bash.github.io/)!
+<!-- ### Hi there 👋 I am [Immortal.S](http://szh-bash.github.io/)! -->
 
 <!--
 ## Skills 🚀
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [![json](https://img.shields.io/badge/-json-black?style=for-the-badge&logo=json&logoColor=white)](https://github.com/szh-bash)
 -->
 
-## Stats 📊
-[![szh-bash's GitHub stats](https://github-readme-stats.vercel.app/api?username=szh-bash&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_title=true&hide_border=true)](https://github.com/szh-bash)
+<!-- ## Stats 📊 -->
+[![szh-bash's GitHub stats](https://github-readme-stats.vercel.app/api?username=szh-bash&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true)](https://github.com/szh-bash)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szh-bash&layout=compact&theme=github_dark&hide_border=true)](https://github.com/szh-bash)
