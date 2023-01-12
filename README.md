@@ -33,3 +33,9 @@ Here are some ideas to get you started:
 
 <!-- ## Stats 📊 -->
 [![szh-bash's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=szh-bash&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&werlkjaw=werlkjaw)](https://github.com/szh-bash)[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=szh-bash&layout=compact&theme=github_dark&hide_border=true)](https://github.com/szh-bash)
+
+<!-- ## Repo -->
+<!-- [![ACM](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=szh-bash&repo=ACM&theme=github_dark)](https://github.com/szh-bash/ACM)
+[![ProjectArk](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=szh-bash&repo=ProjectArk&theme=github_dark)](https://github.com/szh-bash/ProjectArk)
+[![FaceRecognition](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=szh-bash&repo=FaceRecognition&theme=github_dark)](https://github.com/szh-bash/FaceRecognition)
+[![water-meter-number](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=szh-bash&repo=water-meter-number&theme=github_dark)](https://github.com/szh-bash/water-meter-number) -->
