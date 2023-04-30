@@ -30,12 +30,18 @@ Here are some ideas to get you started:
 [![markdown](https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/szh-bash)
 [![json](https://img.shields.io/badge/-json-black?style=for-the-badge&logo=json&logoColor=white)](https://github.com/szh-bash)
 -->
-
+<p align="center">
 <!-- ## Stats 📊 -->
-[![szh-bash's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=szh-bash&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&werlkjaw=werlkjaw)](https://github.com/szh-bash)[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=szh-bash&layout=compact&theme=github_dark&hide_border=true)](https://github.com/szh-bash)
-
+<!-- [![szh-bash's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=szh-bash&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&werlkjaw=werlkjaw)](https://github.com/szh-bash)[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=szh-bash&layout=compact&theme=github_dark&hide_border=true)](https://github.com/szh-bash) -->
 <!-- ## Repo -->
 <!-- [![ACM](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=szh-bash&repo=ACM&theme=github_dark)](https://github.com/szh-bash/ACM)
 [![ProjectArk](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=szh-bash&repo=ProjectArk&theme=github_dark)](https://github.com/szh-bash/ProjectArk)
 [![FaceRecognition](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=szh-bash&repo=FaceRecognition&theme=github_dark)](https://github.com/szh-bash/FaceRecognition)
-[![water-meter-number](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=szh-bash&repo=water-meter-number&theme=github_dark)](https://github.com/szh-bash/water-meter-number) -->
+[![water-meter-number](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=szh-bash&repo=water-meter-number&theme=github_dark)](https://github.com/szh-bash/water-meter-number) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=szh-bash&theme=dark&hide_border=true)](https://git.io/streak-stats)-->
+  <a href='https://github.com/szh-bash'> <img alt="github-status" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=szh-bash&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&werlkjaw=werlkjaw"></a>
+  <a href='https://github.com/szh-bash'> <img alt="Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=szh-bash&layout=compact&theme=github_dark&hide_border=true"></a>
+</p>
+<p align="center">
+  <a href='https://git.io/streak-stats'> <img alt="streak-status" src="https://streak-stats.demolab.com?user=szh-bash&theme=dark&hide_border=true">  </a> 
+</p>
