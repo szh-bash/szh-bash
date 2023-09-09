@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 [![FaceRecognition](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=szh-bash&repo=FaceRecognition&theme=github_dark)](https://github.com/szh-bash/FaceRecognition)
 [![water-meter-number](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=szh-bash&repo=water-meter-number&theme=github_dark)](https://github.com/szh-bash/water-meter-number) 
 [![GitHub Streak](https://streak-stats.demolab.com?user=szh-bash&theme=dark&hide_border=true)](https://git.io/streak-stats)-->
-  <a href='https://github.com/szh-bash'> <img alt="github-status" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=szh-bash&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&werlkjaw=werlkjaw"></a>
+  <a href='https://github.com/szh-bash'> <img alt="github-status" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=szh-bash&hide_title=true&show_icons=true&count_private=true&theme=github_dark&hide_border=true"></a>
   <a href='https://github.com/szh-bash'> <img alt="Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=szh-bash&layout=compact&theme=github_dark&hide_border=true"></a>
 </p>
 <p align="center">
